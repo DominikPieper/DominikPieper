@@ -6,3 +6,5 @@
 - 💬 Ask me about anything
 - 📫 How to reach me at Twitter @dominik_pieper
 - 😄 Pronouns: he/him
+
+You can find me on <a rel="me" href="https://mastodon.online/@dominikpieper">Mastodon</a>
