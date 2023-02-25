@@ -5,8 +5,8 @@
 </p>
 
 - 🔭 I’m currently working on nx plugins
-- 🌱 I’m currently learning Obsidian
+- 🌱 I’m currently learning Obsidian, Angular
 - 👯 I’m looking to collaborate on Projects and Screencasts
 - 💬 Ask me about anything
 
-You can find me on <a rel="me" href="https://mastodon.online/@dominikpieper">Mastodon</a>
+![Dominik's GitHub stats](https://github-readme-stats.vercel.app/api?username=DominikPieper&show_icons=true&theme=transparent)
